@@ -1,5 +1,5 @@
 ---
-allowed-tools: Bash(git status:*), Bash(git branch:*), Bash(git push:*), Bash(gh pr create:*), Bash(git log:*), Bash(git diff:*)
+allowed-tools: Bash(git status:*), Bash(git branch:*), Bash(git push:*), Bash(git log:*), Bash(git diff:*), Bash(gh pr create:*), Bash(gh pr view:*)
 description: Push current branch to remote and create a pull request
 ---
 
